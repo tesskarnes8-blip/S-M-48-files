@@ -1,7 +1,7 @@
 # Marketing attribution dashboard — Q4 2025. Attribution basis (touch-timing). Not directly comparable to Finance billing figures. See attribution_nov_dec_comparison.csv for prior-month variance trend.
 ERPNext_Customer_ID,Client_Name,Attribution_Q4_Revenue_USD,Attribution_Method,First_Touch_Date,Notes
 CUST-2025-0033,Marlstone Bioscience,179850,Multi-touch weighted,2025-10-03,Attribution timing basis — differs from Finance billing by design.
-CUST-2025-0142,Ashford Scientific Instruments,236200,Multi-touch weighted,2025-10-02,Inherited-Bramwell account; touch-timing snapshot ~1.6% below billing register.
+CUST-2025-0142,Ashford Scientific Instruments,236200,Multi-touch weighted,2025-10-02,Inherited-Bramwell account; touch-timing snapshot ~1.6% below the managed-spend register (Finance billing register is not meaningful here since Ashford is billed a service fee separately from platform spend).
 CUST-2025-0088,Caldwell Diagnostics,125800,Position-based,2025-10-08,Regulated (diagnostics) client; variance within normal 1–3% attribution timing band.
 CUST-2025-0198,Fenwick Genomics,73159,Time-decay,2025-10-05,"Attribution timing basis; touch-timing snapshot 1.6% above the managed-spend register, within the normal 1–3% band."
 CUST-2025-0157,Northlake Bioinstruments,230464,Multi-touch weighted,2025-10-15,"Attribution timing basis; touch-timing snapshot 1.9% below the managed-spend register, within the normal 1–3% band."
